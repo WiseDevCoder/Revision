@@ -1,4 +1,4 @@
-package Arrays.Medium;
+package Arrays.Easy;
 
 public class RotateArray {
 
